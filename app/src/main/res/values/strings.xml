@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">64_AndroidCalculator</string>
+    <string name="titleProject">Калькулятор времени</string>
+    <string name="defaultValue">00</string>
+    <string name="_h">h</string>
+    <string name="_m">m</string>
+    <string name="_s">s</string>
+    <string name="sum">+</string>
+    <string name="dif">-</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+</resources>
